@@ -41,9 +41,13 @@ S'ha provat a Barcelona, ​​Catalunya. Tot i que la funcionalitat hauria de s
 - **Github Issues:** Please note, I will not be actively responding to Github Issues on this repo. I do not provide personalised advice on your own migrations.
 - **Use of AI:** This guide has been initially assembled and formatted using AI from my own notes. That being said, the guide has been fully tested without any AI support, and was developed through personal testing and trial-and-error.
 
+-----
+
 - **Traducciones:** Si deseas contribuir a una traducción (p. ej., gallego, euskera, valenciano), puedes contactarme a través de GitHub.
 - **Github Issues:** Ten en cuenta que no responderé activamente a los 'Github Issues' en este repositorio. No ofrezco asesoramiento personalizado sobre tus propias migraciones.
 - **Uso de IA:** Esta guía se ha compilado y formateado inicialmente con IA a partir de mis propias notas. Dicho esto, la guía se ha probado exhaustivamente sin ayuda de IA y se desarrolló mediante pruebas personales y ensayo y error.
+
+-----
 
 - **Traduccions:** Si voleu contribuir a una traducció (per exemple, gallec, basc, valencià) podeu contactar amb mi a través de Github.
 - **Github Issues:** Tingueu en compte que no respondré activament als 'Github Issues' en aquest repositori. No ofereixo assessorament personalitzat sobre les vostres pròpies migracions.
